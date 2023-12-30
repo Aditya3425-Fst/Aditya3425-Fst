@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar Tiwari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya3425-fst" alt="aditya3425-fst" /></a> </p>
+
 
 - 🌱 I’m currently learning **I am currently learning about JavaScript,Html,Css,Java.**
 
