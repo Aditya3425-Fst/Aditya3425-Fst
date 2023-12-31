@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **I am currently learning about JavaScript,Html,Css,Java.**
+- **I am currently learning about JavaScript,Html,Css,Java.**
 
 - 📫 How to reach me **adityakumartiwari3888@gmail.com**
 
