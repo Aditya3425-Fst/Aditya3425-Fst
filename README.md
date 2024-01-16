@@ -6,7 +6,8 @@
 
 - **I am currently learning about JavaScript,Html,Css,Java.**
 
-- 📫 How to reach me **adityakumartiwari3888@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/adityakt3425/**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
