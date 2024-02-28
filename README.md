@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Aditya Kumar Tiwari</h1>
-<h3 align="center">I am  passionate in Web Development in India</h3>
+<h3 align="center">I am  passionate in Web Development from India</h3>
 
 
 
