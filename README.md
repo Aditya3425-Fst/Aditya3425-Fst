@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Aditya Kumar Tiwari</h1>
-<h3 align="center">I am  passionate in Web Development from India</h3>
+<h3 align="center">I am  passionate in Full Stack Development</h3>
 
 
 
-- **I am currently learning about DSA,JAVA,REACT**
+- **I am currently learning about REACT,Node.js,Express.js**
 
 - 📫 How to reach me **https://www.linkedin.com/in/adityakt3425/**
 
