@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Aditya Kumar Tiwari</h1>
-<h3 align="center">I am  passionate in Full Stack Development</h3>
+<h3 align="center">I am  passionate in Backend Development</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya3425-fst&label=Profile%20views&color=0e75b6&style=flat" alt="aditya3425-fst" /> </p>
 
-- **I am currently learning about REACT,Node.js,Express.js**
+- **I am currently learning about DSA in C++ **
 
 - 📫 How to reach me **https://www.linkedin.com/in/adityakt3425/**
 
